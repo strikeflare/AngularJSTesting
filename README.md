@@ -1,4 +1,4 @@
 AngularJSTesting
 ================
 
-Some Tets
+Some Tests
